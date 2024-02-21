@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    text-align: justify;
+}
+
+img{
+    align-items: center;
+    margin: 15px;
+}
+
+p{
+    margin: 15px;
+    background-color: #7ABF98;
+    display: flex;
+}
+
+h3{
+    margin: 5px;
+    color: #A62B1F;
+}
+
+
