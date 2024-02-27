@@ -10,10 +10,16 @@ img{
     margin: 15px;
 }
 
+.espaco{
+    margin: 30px;
+    background-color: #A6A6A6;
+    border-radius: 30px;
+}
+
 article{
     margin: 30px;
     background-color: #A6A6A6;
-    border-radius: 5px;
+    border-radius: 30px;
     display: flex;
 }
 
