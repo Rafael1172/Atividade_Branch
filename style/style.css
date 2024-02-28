@@ -76,7 +76,7 @@ nav:hover{
     nav a:hover{
         border-radius: 3px;
         background-color: #7B0000;
-        color: #131313;
+        color: #fff;
     }
     ul{
     list-style: none;
