@@ -54,7 +54,7 @@ nav{
     overflow: hidden;
 }
 nav:hover{
-    transition: 0.3s;
+    transition: 0.1s;
     width: 170px;
 }
     nav ul{
@@ -74,7 +74,7 @@ nav:hover{
         display: block;
     }
     nav a:hover{
-        border-radius: 3px;
+        border-radius: 7px;
         background-color: #7B0000;
         color: #fff;
     }
